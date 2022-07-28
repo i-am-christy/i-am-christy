@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @i-am-christy
 - 👀 I’m interested in Data science and Machine learning and  Technical Writing.
-- 🌱 I’m currently learning Data science, web development(for fun), Networking(cause I feel like).
+- 🌱 I’m currently learning Data science.
 - ✨ I'm open to learning anything Data science related :).
 - 📫 How to reach me kunlechristy2019@gmail.com
 
