@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Data science.
 - ✨ I'm open to learning anything Data science related :).
 - 📫 How to reach me kunlechristy2019@gmail.com
+- In love with programming
 
 <!---
 i-am-christy/i-am-christy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
