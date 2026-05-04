@@ -6,7 +6,7 @@ I design and ship end-to-end ML pipelines, voice AI agents, and data-driven prod
 
 ---
 
-## What I build
+## Interests
 
 - **ML & Predictive Modelling** — classification, feature engineering, ensemble methods (LightGBM · XGBoost · CatBoost)
 - **AI Automation** — voice agents, LLM-powered workflows, RAG pipelines (n8n · VAPI · Claude API)
@@ -39,9 +39,6 @@ I design and ship end-to-end ML pipelines, voice AI agents, and data-driven prod
 | [🤟 Nigerian Speech to Sign Language](https://github.com/i-am-christy/nigerian-speech-to-sign) | Converts Nigerian speech to Nigerian Sign Language — my undergraduate thesis. Live on HuggingFace. | Python · ASR · Computer Vision |
 | [📊 Financial Health Prediction](https://github.com/i-am-christy/financial-health-prediction) | Multi-class classifier predicting financial health of African SMEs. 0.886 F1 macro on public leaderboard. | LightGBM · XGBoost · CatBoost · sklearn |
 | [🔐 RiderSafe](https://github.com/i-am-christy/ridersafe) | Production-grade identity verification microservices system with JWT RS256, TOTP MFA, and HMAC-chained audit logs. | Node.js · React · PostgreSQL · Docker |
-| [🤖 Renie — Voice AI Agent](https://github.com/i-am-christy/relaypaay-voice-ai-agent) | AI voice agent for RelayPay with custom RAG pipeline. Built under a tight submission deadline. | VAPI · n8n · Supabase · Claude API |
-| [🚗 Vehicle CO₂ Emissions Analysis](https://github.com/i-am-christy/vehicle-co2-emissions-analysis) | Interactive EDA and prediction dashboard for Canadian vehicle emissions data. | Python · pandas · Streamlit |
-| [🏥 Disease Prognosis Classifier](https://github.com/i-am-christy/disease-prognosis-classifier) | ML pipeline for clinical disease prognosis with interpretable predictions. | sklearn · Python · Streamlit |
 
 ---
 
