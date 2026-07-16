@@ -2,7 +2,7 @@
 
 **AI/ML Engineer building intelligent systems at the intersection of language, data, and automation.**
 
-I design and ship end-to-end ML pipelines, voice AI agents, and data-driven products — from raw data to production deployment. First-Class graduate in Computer Science from FUTA. Currently working as an AI Automation Engineer.
+I design and ship end-to-end ML pipelines, voice AI agents, and data-driven products — from raw data to production deployment. First-Class graduate in Computer Science from FUTA. Currently working as an Ml Engineering Intern.
 
 ---
 
@@ -30,15 +30,6 @@ I design and ship end-to-end ML pipelines, voice AI agents, and data-driven prod
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 
----
-
-## Featured projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [🤟 Nigerian Speech to Sign Language](https://github.com/i-am-christy/nigerian-speech-to-sign) | Converts Nigerian speech to Nigerian Sign Language — my undergraduate thesis. Live on HuggingFace. | Python · ASR · Computer Vision |
-| [📊 Financial Health Prediction](https://github.com/i-am-christy/financial-health-prediction) | Multi-class classifier predicting financial health of African SMEs. 0.886 F1 macro on public leaderboard. | LightGBM · XGBoost · CatBoost · sklearn |
-| [🔐 RiderSafe](https://github.com/i-am-christy/ridersafe) | Production-grade identity verification microservices system with JWT RS256, TOTP MFA, and HMAC-chained audit logs. | Node.js · React · PostgreSQL · Docker |
 
 ---
 
